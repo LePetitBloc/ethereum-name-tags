@@ -1,0 +1,25 @@
+{
+  "name": "ethereum-name-tags",
+  "version": "0.1.0",
+  "description": "List of publicly known Ethereum addresses (name tags) as seen on https://etherscan.io/",
+  "main": "name-tags.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LePetitBloc/ethereum-name-tags.git"
+  },
+  "keywords": [
+    "ethereum",
+    "addresses",
+    "public",
+    "nameTag"
+  ],
+  "author": "lutangar <johan.dufour@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LePetitBloc/ethereum-name-tags/issues"
+  },
+  "homepage": "https://github.com/LePetitBloc/ethereum-name-tags#readme"
+}
