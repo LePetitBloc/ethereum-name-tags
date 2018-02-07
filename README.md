@@ -19,7 +19,7 @@ values a known address.
 > https://ethereum.stackexchange.com/questions/2620/how-can-i-add-my-name-next-to-address-on-etherscan
 > https://www.reddit.com/r/ethereum/comments/4d612u/how_can_i_add_my_name_next_to_address_on_etherscan/d1p8ns9/
 
-# Users
+## Users
 * [Ethercarta.io](https://ethercarta.io) provide a graphical representation of parts of the Ethereum network.
 
 ## Resources
